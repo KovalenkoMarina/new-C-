@@ -1,0 +1,15 @@
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\bin\Debug\net6.0\exampl001_hello.exe
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\bin\Debug\net6.0\exampl001_hello.deps.json
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\bin\Debug\net6.0\exampl001_hello.runtimeconfig.json
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\bin\Debug\net6.0\exampl001_hello.dll
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\bin\Debug\net6.0\exampl001_hello.pdb
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.csproj.AssemblyReference.cache
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.AssemblyInfoInputs.cache
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.AssemblyInfo.cs
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.csproj.CoreCompileInputs.cache
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.dll
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\refint\exampl001_hello.dll
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.pdb
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\exampl001_hello.genruntimeconfig.cache
+C:\Users\vvk11\OneDrive\Рабочий стол\учеба\exampls\exampl001_hello\obj\Debug\net6.0\ref\exampl001_hello.dll
